@@ -7,4 +7,4 @@ permissions:
 jobs:
   welcome:
     name: welcome
-    run-on: ubuntu-latest
+    runs-on: ubuntu-latest
